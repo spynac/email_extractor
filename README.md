@@ -1,5 +1,5 @@
 # email_extractor
-A Python script to extract unique email addresses from text files with automatic saving.
+A Python script to extract and find email addresses from text files with automatic saving.
 
 How to Use
 Run the script:
